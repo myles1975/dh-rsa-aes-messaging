@@ -1,6 +1,6 @@
 # dh-rsa-aes-messaging
 
-A Python-based toolkit implementing: (1) a Diffie‑Hellman key‑exchange pair (client/server), (2) RSA key‑generation and digital‐signature client, and (3) authenticated AES‑CBC encryption with HMAC. Perfect for learning cryptographic protocols end‑to‑end.
+A Python-based toolkit implementing: (1) a Diffie‑Hellman key‑exchange pair (client/server), (2) RSA key‑generation and digital‐signature client, and (3) authenticated AES‑CBC encryption with HMAC.
 
 🚀 Project Overview
 
